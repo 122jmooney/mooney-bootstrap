@@ -1,6 +1,10 @@
-.logo {
+
+body {
+  background-color: #c0ebc4;
+  }
+  .logo {
   width: 120px;
 }
 .bar {
-  font-size: 40px;
+  font-size: 30px;
 }
