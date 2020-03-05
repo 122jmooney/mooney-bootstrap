@@ -21,3 +21,17 @@ body {
     border: none;
     border-radius: .25rem;
 }
+#short {
+  width: 400px;
+}
+#background {
+  background-color: #f2fff6;
+}
+.form-group {
+  margin-left: auto;
+  margin-right: auto;
+}
+.color {
+  background-color: plum;
+  border: 1px solid rebeccaPurple;
+  }
