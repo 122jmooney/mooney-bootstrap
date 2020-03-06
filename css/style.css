@@ -21,6 +21,10 @@ body {
     border: none;
     border-radius: .25rem;
 }
+#carouselExampleFade {
+  width: 800px;
+  margin: auto;
+}
 #short {
   width: 400px;
 }
@@ -29,7 +33,7 @@ body {
 }
 .form-group {
   margin-left: auto;
-  margin-right: auto;
+
 }
 .color {
   background-color: plum;
