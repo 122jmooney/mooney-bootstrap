@@ -1,0 +1,41 @@
+.body {
+  background-color: #cfd5ff;
+}
+#carouselExampleCaptions{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.Kaktovik {
+  font-size: 75px;
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 20px;
+}
+.what-is {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+}
+.description {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 15px;
+}
+.map-img {
+  align-items: center;
+}
+.nav-link {
+  font-size: 27px;
+}
+.sign-up-form
+{
+  padding-left: 20px;
+  padding-right: 40px;
+}
+.live-here{
+  padding-left: 20px;
+  padding-top: 60px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 40px;
+}
+.table {
+  border: black;
+  background-color: white;
+}
